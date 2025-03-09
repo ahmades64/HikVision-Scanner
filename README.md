@@ -22,7 +22,7 @@ Installation & Usage:
 
     Clone the repository:
 
-git clone https://github.com/yourusername/HikVision-Scanner.git
+git clone https://github.com/ahmades64/HikVision-Scanner.git
 cd HikVision-Scanner
 
 Install dependencies:
