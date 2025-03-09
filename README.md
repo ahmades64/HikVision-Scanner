@@ -31,6 +31,6 @@ pip install requests
 
 Run the scanner:
 
-    python hikvision_scanner.py
+    python HikVisionScanner.py
 
 Make sure you have permission before scanning any network! 🚀
